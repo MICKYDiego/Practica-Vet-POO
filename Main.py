@@ -1,8 +1,6 @@
 # Funciones para la interfaz de consola:
 
-
-
-
+#-------------------------------------------------------------------------------------
 from Clases.cliente import Cliente
 from Clases.inventario import Inventario
 from Clases.mascota import Gato, Perro
@@ -135,5 +133,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+#----------------------------------------------------------------------------------------------
 
         
